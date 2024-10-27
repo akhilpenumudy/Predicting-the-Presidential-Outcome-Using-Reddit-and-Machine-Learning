@@ -9,7 +9,7 @@ flowchart LR
     B --> C[Use Gemini AI Model for Classification]
     C --> D{Classify Each Headline}
     D -->|Supports Republicans| E[R - Republican Favorable]
-    D -->|Supports Democrats| F[B - Democrat Favorable]
+    D -->|Supports Democrats| F[D - Democrat Favorable]
     D -->|Neutral Stance| G[N - Neutral]
     
     E --> H[Store Classifications in DataFrame]
