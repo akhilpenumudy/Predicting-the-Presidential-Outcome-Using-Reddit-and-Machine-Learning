@@ -1,6 +1,10 @@
-# Predicting-the-Presidential-Outcome-Using-Reddit-and-Machine-Learning
+# Predicting-the-Presidential-Outcome-Using-Reddit-and-Machine-Learning 
 This project intends to predict the outcome of the 2024 presidential election by analyzing sentiment trends on the r/politics subreddit. Using web scraping and machine learning, it classifies posts daily, detecting partisan leanings and shifts over time, with the goal of forecasting the final election result based on social media discourse.
-
+### Tools used: 
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#)
+### Process Diagram
 ```mermaid
 
 
